@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f2b9ef6536a130ce4b25cd8e",
+  "owner": "dsqtbfarhge",
+  "repo": "page-f1ce97e9f0d962ca4fdb23e8",
+  "title": "翻儿",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f1ce97e9f0d962ca4fdb23e8",
+      "a": "翻儿",
+      "b": "2027最新官网",
+      "entity": "翻儿",
+      "brand": "翻儿",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c2844c677a6904fa03b38220259e2cc984700b1b5a6ae4e48e95da3d2662d4d5",
+      "content": {
+        "primary_entity": "翻儿",
+        "keyword1": "翻儿",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端：手机、桌面与路由器分别有对应方案。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "先按设备数量与流量需求对照套餐，再导入订阅开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，翻儿面向需要稳定跨境连接的日常上网、流媒体与轻量游戏场景，提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，按年付可享更低的月均价格。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个角度对比三档套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备，按需选择。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TEXT_2": "旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟敏感的使用场景。",
+          "AI_FEATURE_TITLE_2": "线路与场景适配",
+          "AI_FEATURE_TEXT_3": "三档套餐均可月付，年付方案为 ¥150/年、¥350/年与 ¥850/年，长期使用可优先考虑年付。",
+          "AI_FEATURE_TITLE_3": "订阅周期与价格",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，三步即可完成配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_STEP_TEXT_1": "先确认同时在线设备数量与每月大致流量，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "核对目标设备系统与套餐内的设备数量、节点类型是否匹配，团队版还涉及定制路由需求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "获取订阅链接后，依所用客户端的文档说明导入订阅，再按节点延迟选择线路使用。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_HERO_INTRO": "翻儿提供多档海外网络加速订阅，覆盖基础流媒体、IPLC 专线与团队高带宽场景，按设备数量和流量需求挑选合适套餐即可开始配置。",
+          "AI_HERO_SUBTITLE": "多档套餐按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付方案月均价格更低",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量与设备数对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_VISUAL_TITLE": "翻儿加速套餐一览",
+          "AI_FAQ_ANSWER_1": "按同时在线设备数选择：基础版支持 3 台，旗舰版 5 台，团队版 20 台。若手机与电脑同时使用，旗舰版可覆盖大多数日常场景。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览选基础版，常看视频或多设备同时用选旗舰版，团队协作选团队版。",
+          "AI_FAQ_ANSWER_3": "在订单中获取订阅链接，再按客户端文档将链接导入对应应用。不同客户端导入方式略有差别，建议先查看所用客户端的新手说明。",
+          "AI_FAQ_ANSWER_4": "基础版面向手机与电脑，旗舰版增加 IPLC 专线节点，更适合在线游戏与流媒体。团队版提供高带宽节点与定制路由，适合小型团队。",
+          "AI_FAQ_ANSWER_5": "按年付相当于十个自然月的费用：基础版 150 元、旗舰版 350 元、团队版 850 元。长期使用可以优先考虑年付，短期试用按月付即可。",
+          "AI_FAQ_INTRO": "套餐选择、设备数量、订阅导入与计费周期。",
+          "AI_FAQ_QUESTION_1": "翻儿套餐怎么按设备数量选？",
+          "AI_FAQ_QUESTION_2": "每月流量用完了怎么办？",
+          "AI_FAQ_QUESTION_3": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版适合哪些场景？",
+          "AI_FAQ_QUESTION_5": "按年付比月付划算多少？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ctyfw.cn",
+    "host": "ctyfw.cn"
+  },
+  "file_hashes": {
+    "index.html": "acc0131ba27903bca8b70845d2a338b8478ec9ec0d3927ac8e55229f5c047bee",
+    "sitemap.xml": "5a5a36abf922a923086f4c815c905372bab0ba6037ccdfa415d11c6f6a9813fd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "912bb48d2fc12436e21a4c1adb1e26e5decf4499be51a52d4618dc5fbecf869a",
+    "robots.txt": "147d644731fb480478d38434e82c0a80952c5799df32de5ff50840ea6d44d0d7",
+    "4e40866ea4ce9a8fc431ebb435eddc66.txt": "b9c926d49374c0a9de9e826cd9ad9e3c77f723d45c8812c96fb72d14a245540e"
+  },
+  "revision": "570b574a3ca78a96a713fb9d6e9697b83714b687752dcf8581eef5953437510e"
+}
